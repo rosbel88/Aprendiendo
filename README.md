@@ -1,2 +1,2 @@
 # Aprendiendo
-Aprendiendo Git un poco para automatizar 
+Aprendiendo Git un poco para procesos automatizados 
